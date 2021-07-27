@@ -9,10 +9,10 @@ The output of the program is 2 dxf files (one for the original cam and one for t
 
 
 Inputs of the program:
-	arm length of the follower; L,
-	distance from cam to follower pivot point; f,
-	base circle radius of the cam; rb,
-	and radius of the roller follower; rf,
+	arm length of the follower,
+	distance from cam to follower pivot point,
+	base circle radius of the cam,
+	and radius of the roller follower,
 and information about cam motion:
 	n is the number of cam motion courses,
 	for each course add:
