@@ -20,7 +20,7 @@ and information about cam motion:
 		angle of the follower at the end of course,
 		and motion type,
 
-it is obvious that the angle of cam at the end of the course is equal to the angle of cam at the first of the next course, so it's enough to add only the angle at the end. (angle of cam at the start the first course is 0 and at the end of the last course is 360)    
+it is obvious that the angle of cam at the end of the course is equal to the angle of cam at the first of the next course, so it's enough to add only the angle at the end. (angle of cam at the start of the first course is 0 and at the end of the last course is 360)    
 
 this program only supports cycloid motion for cam, for cycloid rise use 1, for dwell motion use 2, and for cycloid fall use 3 in motion type box for each course.
 
