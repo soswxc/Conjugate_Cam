@@ -9,16 +9,16 @@ The output of the program is 2 dxf files (one for the original cam and one for t
 
 
 Inputs of the program:
-	arm length of the follower; L
-	distance from cam to follower pivot point; f
-	base circle radius of the cam; rb
-	and radius of the roller follower; rf
+	arm length of the follower; L,
+	distance from cam to follower pivot point; f,
+	base circle radius of the cam; rb,
+	and radius of the roller follower; rf,
 and information about cam motion:
-	n is the number of cam motion courses
+	n is the number of cam motion courses,
 	for each course add:
-		angle of cam at the end of course
-		angle of the follower at the end of course
-		and motion type
+		angle of cam at the end of course,
+		angle of the follower at the end of course,
+		and motion type,
 
 it is obvious that the angle of cam at the end of the course is equal to the angle of cam at the first of the next course, so it's enough to add only the angle at the end. (angle of cam at the start the first course is 0 and at the end of the last course is 360)    
 
