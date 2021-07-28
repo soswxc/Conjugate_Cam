@@ -24,5 +24,5 @@ it is obvious that the angle of cam at the end of the course is equal to the ang
 
 this program only supports cycloid motion for cam, for cycloid rise use 1, for dwell motion use 2, and for cycloid fall use 3 in motion type box for each course.
 
-Relations and formulas used in this code are based on an article from Wen-Tung Chang & Long-Iong Wu: Calculating conjugate cam profiles by vector equations
-https://link.springer.com/article/10.1007/s12206-011-0928-4
+Relations and formulas used in this code are based on an this article: Calculating conjugate cam profiles by vector equations
+https://journals.sagepub.com/doi/10.1243/095440603322517135
